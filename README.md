@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Vincent. I'm stduying informatic business at the Hochschule Fresenius in Wiesbaden.
+- 👋 Hi, I’m Vincent. I'm studying informatic business at the Hochschule Fresenius in Wiesbaden.
 - 👀 I’m interested in object-oriented programming and Data Science.
 - 🌱 I’m currently learning Java and Python
 

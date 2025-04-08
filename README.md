@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Vincent. I'm studying  informatic at the Technische Hochschule Mannheimm.
+- 👋 Hi, I’m Vincent. I'm studying  business informatics at the University of Mannheim.
 - 👀 I’m interested in Data Science.
 
 
